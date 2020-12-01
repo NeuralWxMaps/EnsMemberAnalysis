@@ -1,5 +1,12 @@
-<h1><center>Ensemble Member Analysis
-  <h2><center>Plots of ensemble member content to verify neural network node assignments
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <h2><center>Ensemble Member Analysis
+  <hr>
+      
     
 ![Pcpn20112900_60hr_m10](https://user-images.githubusercontent.com/75145898/100805933-cd9f4e00-33ec-11eb-9f87-bed132bc13aa.png)
 ![Pcpn20112900_60hr_m23](https://user-images.githubusercontent.com/75145898/100805949-d4c65c00-33ec-11eb-9bd0-29819e98d269.png)
