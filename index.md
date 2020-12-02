@@ -22,6 +22,8 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/100805949-d4c65c00-33ec-11eb-9bd0-29819e98d269.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100805968-dabc3d00-33ec-11eb-9b80-c2559657e43a.png"></td>
     </tr>
+  </table>
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th></th>
       <th>Members assigned to (28,4)</th>
@@ -40,6 +42,8 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/100821234-30084680-340d-11eb-8c23-dc2e51a4798b.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100821264-3f878f80-340d-11eb-824a-73f5c10f435e.png"></td>
     </tr>
+  </table>
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th></th>
       <th>Closest member to (35,0)</th>
@@ -52,6 +56,8 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/100812958-7b195e00-33fb-11eb-937b-ee0caaab87b6.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100812968-81a7d580-33fb-11eb-975f-3ae9d45ea476.png"></td>
     </tr>
+  </table>
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th></th>
       <th>Member assigned to (35,40)</th>
@@ -64,6 +70,8 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/100823408-6647c500-3411-11eb-933a-88048e66bb6d.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100823425-6e076980-3411-11eb-8b70-a2fd653b605d.png"></td>
     </tr>
+  </table>
+  <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th></th>
       <th>Members assigned to (51,26)</th>
@@ -82,4 +90,5 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/100823493-88d9de00-3411-11eb-9036-33bddb233ba1.png"></td>
       <td></td>
     </tr>
+  </table>
 
