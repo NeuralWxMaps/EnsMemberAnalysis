@@ -92,7 +92,7 @@
     </tr>
   </table>
   <hr>
-  <p>Conclusions: Nodes that are at different locations on the phase-space plot do have different shapes and magnitudes.</p>
-  <p>Ensemble members that are assigned to a single node have similarities in both shape and magnitude.</p>
+  <p>Conclusions: Nodes that are at different locations on the phase-space plot have differences, in both shape and magnitudes.</p>
+  <p>Ensemble members that are assigned to the same node have similarities in both shape and magnitude.</p>
   <p>Ensemble members assigned to neighboring nodes have similarities in shape, but differ in magnitude.</p>
 
