@@ -9,6 +9,14 @@
   <img src="https://user-images.githubusercontent.com/75145898/100807634-eb21e700-33ef-11eb-94d7-ee611c66f480.png">
       <p>The neural network phase-space plot for the 60 hour forecast made on 11/29/20 00z.</p>
 
+  <table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100807634-eb21e700-33ef-11eb-94d7-ee611c66f480.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100805933-cd9f4e00-33ec-11eb-9f87-bed132bc13aa.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100805949-d4c65c00-33ec-11eb-9bd0-29819e98d269.png"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/100805968-dabc3d00-33ec-11eb-9b80-c2559657e43a.png"></td>
+    </tr>
+      
 ![Pcpn20112900_60hr_m10](https://user-images.githubusercontent.com/75145898/100805933-cd9f4e00-33ec-11eb-9f87-bed132bc13aa.png)
 ![Pcpn20112900_60hr_m23](https://user-images.githubusercontent.com/75145898/100805949-d4c65c00-33ec-11eb-9bd0-29819e98d269.png)
 ![Pcpn20112900_60hr_m7](https://user-images.githubusercontent.com/75145898/100805968-dabc3d00-33ec-11eb-9b80-c2559657e43a.png)
