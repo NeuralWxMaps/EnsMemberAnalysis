@@ -11,10 +11,22 @@
 
   <table border="1" cellpadding="1" cellspacing="1">
     <tr>
+      <th></th>
+      <th>Member assigned to (23,39)</th>
+      <th>Member assigned to (24,39) </th>
+      <th>Member assigned to (25,41)</th>
+    </tr>
+    <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100807703-04c32e80-33f0-11eb-9aea-6edb13172da5.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100805933-cd9f4e00-33ec-11eb-9f87-bed132bc13aa.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100805949-d4c65c00-33ec-11eb-9bd0-29819e98d269.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100805968-dabc3d00-33ec-11eb-9b80-c2559657e43a.png"></td>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Members assigned to (28,4)</th>
+      <th>Members assigned to (29,4) </th>
+      <th>Members assigned to (28,5)</th>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100807704-055bc500-33f0-11eb-8c75-8b2b75780899.png"></td>
@@ -29,10 +41,22 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/100821264-3f878f80-340d-11eb-824a-73f5c10f435e.png"></td>
     </tr>
     <tr>
+      <th></th>
+      <th>Closest member to (35,0)</th>
+      <th>Second closest to (35,0) </th>
+      <th>Third closest to (35,0)</th>
+    </tr>
+    <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100807705-055bc500-33f0-11eb-9cd8-9aa09128b41d.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100812946-718ff600-33fb-11eb-81ce-d935a821fab2.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100812958-7b195e00-33fb-11eb-937b-ee0caaab87b6.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100812968-81a7d580-33fb-11eb-975f-3ae9d45ea476.png"></td>
+    </tr>
+    <tr>
+      <th></th>
+      <th>Member assigned to (35,40)</th>
+      <th>Member assigned to (35,41) </th>
+      <th>Member assigned to (34,38)</th>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100807707-055bc500-33f0-11eb-83a5-9ab75ae37bc9.png"></td>
@@ -41,10 +65,21 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/100823425-6e076980-3411-11eb-8b70-a2fd653b605d.png"></td>
     </tr>
     <tr>
+      <th></th>
+      <th>Members assigned to (51,26)</th>
+      <th>Members assigned to (51,26) </th>
+      <th>Precip amounts are near zero</th>
+    </tr>
+    <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/100807709-055bc500-33f0-11eb-851d-6eab6edeb169.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100823443-752e7780-3411-11eb-83b2-c2df654df598.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100823459-7bbcef00-3411-11eb-982a-1517888120ad.png"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100823479-837c9380-3411-11eb-9bd9-86dc8221a217.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/100823493-88d9de00-3411-11eb-9036-33bddb233ba1.png"></td>
+      <td></td>
     </tr>
 
