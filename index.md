@@ -31,7 +31,7 @@ The largest cluster includes 17 members, while the smaller cluster includes 9 me
 ![Pcpn20120700_72hr_m25](https://user-images.githubusercontent.com/75145898/101398868-f495ce00-388b-11eb-9577-8be11ce74306.png)
 ![Pcpn20120700_72hr_m27](https://user-images.githubusercontent.com/75145898/101398886-fb244580-388b-11eb-85d0-b8ca686d98cf.png)
 
-<p>Notice how each member has a bullseye of precipitation over northwestern Mexico and most members have an arc of precipitation stretching from southern Idaho across cetnral and eastern Montana.</p>
+<p>Notice how each member has a bullseye of precipitation over northwestern Mexico and most members have an arc of precipitation stretching from southern Idaho across central      and eastern Montana.</p>
 <hr>
 
 ![Pcpn20120700_72hr_m1](https://user-images.githubusercontent.com/75145898/101399481-c664be00-388c-11eb-8313-5c3a7e925557.png)
@@ -44,6 +44,10 @@ The largest cluster includes 17 members, while the smaller cluster includes 9 me
 ![Pcpn20120700_72hr_m28](https://user-images.githubusercontent.com/75145898/101399633-fa3fe380-388c-11eb-80de-769c44b0485e.png)
 ![Pcpn20120700_72hr_m30](https://user-images.githubusercontent.com/75145898/101399660-01ff8800-388d-11eb-98b2-5f9df1591cc4.png)
 
-<p>The dominant feathure in this cluster of ensemble members is the bullseye of precipitation that extends fromnorthern Mexico into southern New Mexico. The bullseye of 
-    precipitation over northwestern Mexico is absent in these ensemble members.</p>
+<p>The dominant feature in this cluster of ensemble members is the bullseye of precipitation that extends from northern Mexico into south-central New Mexico and far west 
+    Texas. The bullseye of precipitation over northwestern Mexico is small or absent in these ensemble members.  There are also lighter amounts of precipitaiton over 
+    Idaho and Montana.</p>
+<hr>
+
+
 
