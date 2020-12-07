@@ -8,7 +8,7 @@
         <h1><center>An Analysis of Individual Ensemble Members, Grouped into Clusters</h1>
         <hr>
 
-<img src="https://user-images.githubusercontent.com/75145898/101397432-e8107600-3889-11eb-8afa-b737636f439a.png"
+<img src="https://user-images.githubusercontent.com/75145898/101397432-e8107600-3889-11eb-8afa-b737636f439a.png">
 <p>Here is the Phase-Space plot, showing three clusters of patterns and two apparent outlying patterns.</p>
 
 
