@@ -6,9 +6,9 @@
   <body>
     <h2><center>Ensemble Member Analysis
   <hr>
-  
-          <h1><center>An Analysis of Individual Ensemble Members, Grouped into Clusters</h1>
-        <hr>
+ 
+An Analysis of Individual Ensemble Members, Grouped into Clusters
+<hr>
 
 <img src="https://user-images.githubusercontent.com/75145898/101397432-e8107600-3889-11eb-8afa-b737636f439a.png">
 <p>Here is the Phase-Space plot, showing two clusters of patterns and five outlying patterns, three of which could be included in a third loose cluster.
@@ -67,7 +67,9 @@ The largest cluster includes 17 members, while the smaller cluster includes 9 me
 
 <p>To wrap up this analysis, the Ensemble Mean precipitation field is plotted along with the averages of the three main clusters.  The filled in portion and black lines on each image are the Ensemble Mean values.  The Red, Green and Blue contours correspond to the average values of the three main clusters.  The Cyan pattern from the previous section was included in the calculation of the average of the Red patterns.  The average of the Greens only included the two patterns that had precipitation over the northern Rockies.  The average of the Blues included all 17 members identified in that cluster.  It is possible that with further analysis, the cluster of Blues could be divided into two sub-clusters, depending on the amounts of precipitation over northwestern Mexico and the northern Rockies.  In a final conclusion, the cluster of Blue patterns is most related to the northwestern Mexico precipitation, while the cluster of Red patterns relate to the precipitation in New Mexico and far western Texas, and the Green patterns are forecasting the northern Rockies precipitation.  Therefore, the Self-Organizing Map algorithm is separating individual members of ensemble model runs into meaningful clusters, not just a random spray. </p>
 
-<hr><hr>
+<hr>
+A previous analysis of ensemble member clusters
+<hr>
 
   <img src="https://user-images.githubusercontent.com/75145898/100807634-eb21e700-33ef-11eb-94d7-ee611c66f480.png">
       <p>The neural network phase-space plot for the 60 hour forecast made on 11/29/20 00z.</p>
