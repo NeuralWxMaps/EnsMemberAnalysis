@@ -15,12 +15,12 @@ An Analysis of Individual Ensemble Members, Grouped into Clusters
 The largest cluster includes 17 members, while the smaller cluster includes 9 members. Plots of each member of the main cluster are presented below.</p>
 
 
-![Pcpn20120700_72hr_m0](https://user-images.githubusercontent.com/75145898/101397470-f2cb0b00-3889-11eb-9d00-259726555070.png)
-![Pcpn20120700_72hr_m2](https://user-images.githubusercontent.com/75145898/101397477-f78fbf00-3889-11eb-81a1-561a45b1bcb0.png)
-![Pcpn20120700_72hr_m3](https://user-images.githubusercontent.com/75145898/101397506-01192700-388a-11eb-958a-e3fe91c568fe.png)
-![Pcpn20120700_72hr_m5](https://user-images.githubusercontent.com/75145898/101397626-2dcd3e80-388a-11eb-86a9-fe80435af9e1.png)
-![Pcpn20120700_72hr_m9](https://user-images.githubusercontent.com/75145898/101398757-d0d28800-388b-11eb-97c6-975595224026.png)
-![Pcpn20120700_72hr_m10](https://user-images.githubusercontent.com/75145898/101398760-d0d28800-388b-11eb-9d02-03c7fa47dd4b.png)
+<img src="https://user-images.githubusercontent.com/75145898/101397470-f2cb0b00-3889-11eb-9d00-259726555070.png">
+<img src="https://user-images.githubusercontent.com/75145898/101397477-f78fbf00-3889-11eb-81a1-561a45b1bcb0.png">
+<img src="https://user-images.githubusercontent.com/75145898/101397506-01192700-388a-11eb-958a-e3fe91c568fe.png">
+<img src="https://user-images.githubusercontent.com/75145898/101397626-2dcd3e80-388a-11eb-86a9-fe80435af9e1.png">
+<img src="https://user-images.githubusercontent.com/75145898/101398757-d0d28800-388b-11eb-97c6-975595224026.png">
+<img src="https://user-images.githubusercontent.com/75145898/101398760-d0d28800-388b-11eb-9d02-03c7fa47dd4b.png">
 ![Pcpn20120700_72hr_m13](https://user-images.githubusercontent.com/75145898/101398797-e0ea6780-388b-11eb-9252-725d6aecce44.png)
 ![Pcpn20120700_72hr_m14](https://user-images.githubusercontent.com/75145898/101398798-e182fe00-388b-11eb-98fa-08a0ab1945f9.png)
 ![Pcpn20120700_72hr_m15](https://user-images.githubusercontent.com/75145898/101398800-e182fe00-388b-11eb-95e6-3983f24ba93c.png)
