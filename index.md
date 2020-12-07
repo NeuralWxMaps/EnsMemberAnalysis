@@ -56,6 +56,12 @@ The largest cluster includes 17 members, while the smaller cluster includes 9 me
 ![Pcpn20120700_72hr_m29](https://user-images.githubusercontent.com/75145898/101400818-b057fd00-388e-11eb-87f7-d0f062684c6d.png)
 
 <p>And these are the five ensemble members that are not a part of the other two clusters. The Cyan pattern is from the southwest part of the Phase-Space plot, and after visual inspection could have been included in the Red cluster of patterns.  The Magenta pattern is from the most northeastern member of the Phase-Space plot, with similarities to the patterns in the Blue cluster.  Two of the Green patterns are similar to each other with precipitation over Montana and a dry forecast for northwestern Mexico.  The other Green pattern seems to be a true outlier, with very little precipitation anyhwere. </p>
+<hr>
 
+![EnsembleMean](https://user-images.githubusercontent.com/75145898/101406357-94585980-3896-11eb-8a59-ece0bd92b64b.png)
+![AvgOfBlues](https://user-images.githubusercontent.com/75145898/101406382-9b7f6780-3896-11eb-9fa8-0d57940d2653.png)
+![AvgOfReds](https://user-images.githubusercontent.com/75145898/101406399-a1754880-3896-11eb-90da-ba436ee6232c.png)
+![AvgOfGreens](https://user-images.githubusercontent.com/75145898/101406418-a89c5680-3896-11eb-8ba6-81ee9e75bdc1.png)
 
+<p>To wrap up this analysis, the Ensemble Mean precipitation field is plotted along with the averages of the three main clusters.  The Cyan pattern from the previous section was included in the calculation of the average of the Red patterns.  The average of the Greens only included to two patterns with the precipitation over the northern Rockies.  The average of the Blues included all 17 members identified in that cluster.  It is possible that with further analysis, the cluster of Blues could be divided into two sub-clusters, depending on the amounts of precipitation over northwestern Mexico and the northern Rockies.  In a final conclusion, the cluster of Blue patterns is most related to the northwestern Mexico precipitation, while the Red patterns relate to the precipitation in New Mexico and far western Texas, and the Green patterns are forecasting the northern Rockies precipitation.</p>
 
