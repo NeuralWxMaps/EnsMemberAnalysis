@@ -31,5 +31,5 @@ The largest cluster includes 17 members, while the smaller cluster includes 9 me
 ![Pcpn20120700_72hr_m25](https://user-images.githubusercontent.com/75145898/101398868-f495ce00-388b-11eb-9577-8be11ce74306.png)
 ![Pcpn20120700_72hr_m27](https://user-images.githubusercontent.com/75145898/101398886-fb244580-388b-11eb-85d0-b8ca686d98cf.png)
 
-<p>Notice how each member has a bullseye of precipitation over northwestern Mexico and most members have an arc of precipitation over Idaho and western Montana.</p>
+<p>Notice how each member has a bullseye of precipitation over northwestern Mexico and most members have an arc of precipitation stretching from southern Idaho across cetnral and eastern Montana.</p>
 <hr>
