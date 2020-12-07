@@ -11,8 +11,8 @@ An Analysis of Individual Ensemble Members, Grouped into Clusters
 <hr>
 
 <img src="https://user-images.githubusercontent.com/75145898/101397432-e8107600-3889-11eb-8afa-b737636f439a.png">
-<p>Here is the Phase-Space plot, showing two clusters of patterns and five outlying patterns, three of which could be included in a third loose cluster.
-The largest cluster includes 17 members, while the smaller cluster includes 9 members. Plots from each member of the the main clusters are presented below.</p>
+<p>Here is the Phase-Space plot, showing two clusters of patterns and five outlying patterns, three of which could be included in a third, loose cluster.
+The largest cluster includes 17 members, while the smaller cluster includes 9 members. Plots of each member of the main cluster are presented below.</p>
 
 
 ![Pcpn20120700_72hr_m0](https://user-images.githubusercontent.com/75145898/101397470-f2cb0b00-3889-11eb-9d00-259726555070.png)
