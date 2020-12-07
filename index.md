@@ -55,7 +55,7 @@ The largest cluster includes 17 members, while the smaller cluster includes 9 me
 ![Pcpn20120700_72hr_m20](https://user-images.githubusercontent.com/75145898/101400805-aa621c00-388e-11eb-86cf-075eaac6409f.png)
 ![Pcpn20120700_72hr_m29](https://user-images.githubusercontent.com/75145898/101400818-b057fd00-388e-11eb-87f7-d0f062684c6d.png)
 
-<p>And these are the five ensemble members that are not a part of the other two clusters.</p>
+<p>And these are the five ensemble members that are not a part of the other two clusters. The Cyan pattern is from the southwest part of the Phase-Space plot, and after visual inspection could have been included in the Red cluster of patterns.  The Magenta pattern is from the most northeastern member of the Phase-Space plot, with similarities to the patterns in the Blue cluster.  Two of the Green patterns are similar to each other with precipitation over Montana and a dry forecast for northwestern Mexico.  The other Green pattern seems to be a true outlier, with very little precipitation anyhwere. </p>
 
 
 
