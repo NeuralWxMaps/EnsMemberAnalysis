@@ -49,5 +49,13 @@ The largest cluster includes 17 members, while the smaller cluster includes 9 me
     Idaho and Montana.</p>
 <hr>
 
+![Pcpn20120700_72hr_m6](https://user-images.githubusercontent.com/75145898/101400756-96b6b580-388e-11eb-8742-15c3c48f0a41.png)
+![Pcpn20120700_72hr_m8](https://user-images.githubusercontent.com/75145898/101400770-9b7b6980-388e-11eb-9ae9-9dd57ed39634.png)
+![Pcpn20120700_72hr_m12](https://user-images.githubusercontent.com/75145898/101400789-a33b0e00-388e-11eb-8a6f-630935f0a281.png)
+![Pcpn20120700_72hr_m20](https://user-images.githubusercontent.com/75145898/101400805-aa621c00-388e-11eb-86cf-075eaac6409f.png)
+![Pcpn20120700_72hr_m29](https://user-images.githubusercontent.com/75145898/101400818-b057fd00-388e-11eb-87f7-d0f062684c6d.png)
+
+<p>And these are the five ensemble members that are not a part of the other two clusters.</p>
+
 
 
