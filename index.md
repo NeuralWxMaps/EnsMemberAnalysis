@@ -61,7 +61,7 @@ The largest cluster includes 17 members, while the smaller cluster includes 9 me
     <td><img src="https://user-images.githubusercontent.com/75145898/101399633-fa3fe380-388c-11eb-80de-769c44b0485e.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/101399660-01ff8800-388d-11eb-98b2-5f9df1591cc4.png"></td>
   </tr>
-</table
+</table>
 
 <p>The dominant feature in this cluster of ensemble members is the bullseye of precipitation that extends from northern Mexico into south-central New Mexico and far west 
     Texas. The bullseye of precipitation over northwestern Mexico is small or absent in these ensemble members.  There are also lighter amounts of precipitaiton over 
@@ -85,6 +85,8 @@ The largest cluster includes 17 members, while the smaller cluster includes 9 me
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75145898/101406357-94585980-3896-11eb-8a59-ece0bd92b64b.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/101406382-9b7f6780-3896-11eb-9fa8-0d57940d2653.png"></td>
+  </tr>
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/75145898/101406399-a1754880-3896-11eb-90da-ba436ee6232c.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/101406418-a89c5680-3896-11eb-8ba6-81ee9e75bdc1.png"></td>
   </tr>
