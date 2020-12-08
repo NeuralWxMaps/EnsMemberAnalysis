@@ -14,25 +14,35 @@ An Analysis of Individual Ensemble Members, Grouped into Clusters
 <p>Here is the Phase-Space plot, showing two clusters of patterns and five outlying patterns, three of which could be included in a third, loose cluster.
 The largest cluster includes 17 members, while the smaller cluster includes 9 members. Plots of each member of the main cluster are presented below.</p>
 
-
-<img src="https://user-images.githubusercontent.com/75145898/101397470-f2cb0b00-3889-11eb-9d00-259726555070.png">
-<img src="https://user-images.githubusercontent.com/75145898/101397477-f78fbf00-3889-11eb-81a1-561a45b1bcb0.png">
-<img src="https://user-images.githubusercontent.com/75145898/101397506-01192700-388a-11eb-958a-e3fe91c568fe.png">
-<img src="https://user-images.githubusercontent.com/75145898/101397626-2dcd3e80-388a-11eb-86a9-fe80435af9e1.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398757-d0d28800-388b-11eb-97c6-975595224026.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398760-d0d28800-388b-11eb-9d02-03c7fa47dd4b.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398797-e0ea6780-388b-11eb-9252-725d6aecce44.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398798-e182fe00-388b-11eb-98fa-08a0ab1945f9.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398800-e182fe00-388b-11eb-95e6-3983f24ba93c.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398801-e182fe00-388b-11eb-96f8-379c6a9e074f.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398802-e182fe00-388b-11eb-9d43-08b3f75de1be.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398803-e21b9480-388b-11eb-9656-83c6f4849d1f.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398831-ea73cf80-388b-11eb-9bed-efee7c24be9b.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398865-f495ce00-388b-11eb-8cff-ebf6a153b087.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398867-f495ce00-388b-11eb-8726-4c218dce0c2c.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398868-f495ce00-388b-11eb-9577-8be11ce74306.png">
-<img src="https://user-images.githubusercontent.com/75145898/101398886-fb244580-388b-11eb-85d0-b8ca686d98cf.png">
-
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101397470-f2cb0b00-3889-11eb-9d00-259726555070.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101397477-f78fbf00-3889-11eb-81a1-561a45b1bcb0.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101397506-01192700-388a-11eb-958a-e3fe91c568fe.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101397626-2dcd3e80-388a-11eb-86a9-fe80435af9e1.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398757-d0d28800-388b-11eb-97c6-975595224026.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398760-d0d28800-388b-11eb-9d02-03c7fa47dd4b.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398797-e0ea6780-388b-11eb-9252-725d6aecce44.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398798-e182fe00-388b-11eb-98fa-08a0ab1945f9.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398800-e182fe00-388b-11eb-95e6-3983f24ba93c.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398801-e182fe00-388b-11eb-96f8-379c6a9e074f.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398802-e182fe00-388b-11eb-9d43-08b3f75de1be.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398803-e21b9480-388b-11eb-9656-83c6f4849d1f.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398831-ea73cf80-388b-11eb-9bed-efee7c24be9b.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398865-f495ce00-388b-11eb-8cff-ebf6a153b087.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398867-f495ce00-388b-11eb-8726-4c218dce0c2c.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398868-f495ce00-388b-11eb-9577-8be11ce74306.png"></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/101398886-fb244580-388b-11eb-85d0-b8ca686d98cf.png"></td>
+  </tr>
+</table>
 <p>Notice how each member has a bullseye of precipitation over northwestern Mexico and most members have an arc of precipitation stretching from southern Idaho across central      and eastern Montana.</p>
 <hr>
 
@@ -67,7 +77,7 @@ The largest cluster includes 17 members, while the smaller cluster includes 9 me
 
 <p>To wrap up this analysis, the Ensemble Mean precipitation field is plotted along with the averages of the three main clusters.  The filled in portion and black lines on each image are the Ensemble Mean values.  The Red, Green and Blue contours correspond to the average values of the three main clusters.  The Cyan pattern from the previous section was included in the calculation of the average of the Red patterns.  The average of the Greens only included the two patterns that had the heaviest precipitation over the northern Rockies.  The average of the Blues included all 17 members identified in that cluster.  It is possible that with further analysis, the cluster of Blues could be divided into two sub-clusters, depending on the amounts of precipitation over northwestern Mexico and the northern Rockies.  In a final conclusion, the cluster of Blue patterns is most related to the northwestern Mexico precipitation, while the cluster of Red patterns relates to the precipitation in New Mexico and far western Texas, and the Green patterns are forecasting the northern Rockies precipitation.  Therefore, the Self-Organizing Map algorithm is separating individual members of ensemble model runs into meaningful clusters, not just a random spray. </p>
 
-<hr>
+<hr><hr>
 A previous analysis of ensemble member clusters
 <hr>
 
