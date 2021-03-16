@@ -7,6 +7,13 @@
     <h2><center>Ensemble Member Analysis
   <hr>
 
+![w105](https://user-images.githubusercontent.com/75145898/111385148-f7187880-866f-11eb-9070-11421f0f8d10.png)
+![w425](https://user-images.githubusercontent.com/75145898/111385182-07c8ee80-8670-11eb-91f9-b28a1a6c2e79.png)
+![w2784](https://user-images.githubusercontent.com/75145898/111385234-17483780-8670-11eb-807f-27193916f0e1.png)
+![w2845](https://user-images.githubusercontent.com/75145898/111385247-1c0ceb80-8670-11eb-8361-00c7a0638508.png)
+![w425](https://user-images.githubusercontent.com/75145898/111385454-71e19380-8670-11eb-9a26-8c0a3a4b26d2.png)
+![w196](https://user-images.githubusercontent.com/75145898/111385655-be2cd380-8670-11eb-9981-36f2a3b412b8.png)
+
 An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast Colorado Snowstorm
 <hr>
 
@@ -15,30 +22,32 @@ An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast C
 
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111385247-1c0ceb80-8670-11eb-8361-00c7a0638508.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111385655-be2cd380-8670-11eb-9981-36f2a3b412b8.png"></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75145898/111383042-5759eb00-866d-11eb-99bf-a2fcbf8c30ed.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/111383041-5759eb00-866d-11eb-8a15-2e775570662c.png"></td>
   </tr>
+</table>
 <hr>
 <img src="https://user-images.githubusercontent.com/75145898/111383046-57f28180-866d-11eb-807f-a97be43eec85.png">
 <p>Here is the Phase-Space plot of the 12 hour forecast, valid at 00z on March 15th (3/14/21 6 PM MDT Local Time), showing three clusters. One cluster includes 11 members, another cluster contains 10 members and the third cluster contains 7 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
 
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111385148-f7187880-866f-11eb-9070-11421f0f8d10.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111385182-07c8ee80-8670-11eb-91f9-b28a1a6c2e79.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111385234-17483780-8670-11eb-807f-27193916f0e1.png"></td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/75145898/111383038-5628be00-866d-11eb-9022-96bdffd82458.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/111383039-56c15480-866d-11eb-8583-024274b080ea.png"></td>
     <td><img src="https://user-images.githubusercontent.com/75145898/111383040-56c15480-866d-11eb-84ba-8f18b27ae1f9.png"></td>
   </tr>
+</table>
 <hr>
-  
+
 An Analysis of Individual Ensemble Members, Grouped into Clusters
 <hr>
 
