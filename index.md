@@ -10,7 +10,35 @@
 An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast Colorado Snowstorm
 <hr>
 
+<img src="https://user-images.githubusercontent.com/75145898/111383045-57f28180-866d-11eb-8ec2-361d1a7f324f.png">
+<p>Here is the Phase-Space plot of the 18 hour forecast, valid at 18z on March 14th (Noon MDT Local Time), showing most of the ensemble members clustered around the pattern at (48,13) and two more members clustered near (4,20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
 
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111383042-5759eb00-866d-11eb-99bf-a2fcbf8c30ed.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111383041-5759eb00-866d-11eb-8a15-2e775570662c.png"></td>
+  </tr>
+<hr>
+<img src="https://user-images.githubusercontent.com/75145898/111383046-57f28180-866d-11eb-807f-a97be43eec85.png">
+<p>Here is the Phase-Space plot of the 12 hour forecast, valid at 00z on March 15th (3/14/21 6 PM MDT Local Time), showing three clusters. One cluster includes 11 members, another cluster contains 10 members and the third cluster contains 7 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
+
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111383038-5628be00-866d-11eb-9022-96bdffd82458.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111383039-56c15480-866d-11eb-8583-024274b080ea.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111383040-56c15480-866d-11eb-84ba-8f18b27ae1f9.png"></td>
+  </tr>
+<hr>
+  
 An Analysis of Individual Ensemble Members, Grouped into Clusters
 <hr>
 
