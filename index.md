@@ -13,7 +13,7 @@ An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast C
 <hr>
 
 <img src="https://user-images.githubusercontent.com/75145898/111527263-58e6ea00-8725-11eb-85dc-09ddf5574889.png">
-<p>Here is the Phase-Space plot of the 12 hour forecast, valid at 12z on March 14th (6 AM MDT), showing most of the ensemble members clustered around the pattern at (48,13) and two more members clustered near (4,20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
+<p>Here is the Phase-Space plot of the 12 hour forecast, valid at 12z on March 14th (6 AM MDT), showing most of the ensemble members clustered around node (48, 15) and a second cluster at node (49, 39). The largest cluster includes 21 members. The averages of the clusters are presented below the corresponding Phase-Space nodes.</p>
 
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
@@ -21,14 +21,14 @@ An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast C
     <td><img src="https://user-images.githubusercontent.com/75145898/111525710-8337a800-8723-11eb-85f5-6eb0b75fea36.png"></td>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111529962-62be1c80-8728-11eb-93af-d06cb7f5442d.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111529964-62be1c80-8728-11eb-90de-065ccefb7adc.png"></td>
   </tr>
 </table>
 <hr>
 
 <img src="https://user-images.githubusercontent.com/75145898/111383045-57f28180-866d-11eb-8ec2-361d1a7f324f.png">
-<p>Here is the Phase-Space plot of the 18 hour forecast, valid at 18z on March 14th (Noon MDT Local Time), showing most of the ensemble members clustered around the pattern at (48,13) and two more members clustered near (4,20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
+<p>Here is the Phase-Space plot of the 18 hour forecast, valid at 18z on March 14th (Noon MDT Local Time), showing most of the ensemble members clustered around the pattern at (48, 13) and two more members clustered near (4, 20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
 
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
@@ -42,7 +42,7 @@ An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast C
 </table>
 
 <img src="https://user-images.githubusercontent.com/75145898/111527281-5dab9e00-8725-11eb-9b3b-29697141a94f.png">
-<p>Here is the Phase-Space plot of the 24 hour forecast, valid at 00z on March 15th (6 PM MDT on March 14th), showing most of the ensemble members clustered around the pattern at (48,13) and two more members clustered near (4,20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
+<p>Here is the Phase-Space plot of the 24 hour forecast, valid at 00z on March 15th (6 PM MDT on March 14th). Nineteen ensemble members are clustered around node (1, 46). Two other small clusters are also shown, with 3 members in each one. The averages of the clusters are presented below the corresponding Phase-Space nodes.</p>
 
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
@@ -51,9 +51,9 @@ An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast C
     <td><img src="https://user-images.githubusercontent.com/75145898/111525611-6dc27e00-8723-11eb-95fd-49946ba3d612.png"></td>
   </tr>
   <tr>
-    <td><img src=""></td>
-    <td><img src=""></td>
-    <td><img src=""></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111530007-6ea9de80-8728-11eb-8bcc-2da276350d7d.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111530010-6ea9de80-8728-11eb-94d9-7801a561aef9.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111530012-6f427500-8728-11eb-9de6-8904e9ef11fa.png"></td>
   </tr>
 </table>
 <hr>
