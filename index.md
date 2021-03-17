@@ -28,7 +28,7 @@ An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast C
 <hr>
 
 <img src="https://user-images.githubusercontent.com/75145898/111383045-57f28180-866d-11eb-8ec2-361d1a7f324f.png">
-<p>Here is the Phase-Space plot of the 18 hour forecast, valid at 18z on March 14th (Noon MDT Local Time), showing most of the ensemble members clustered around the pattern at (48, 13) and two more members clustered near (4, 20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
+<p>Here is the Phase-Space plot of the 18 hour forecast, valid at 18z on March 14th (Noon MDT Local Time), showing most of the ensemble members clustered around the pattern at (48, 13) and two more members clustered near (4, 20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.  By the afternoon of March 14th there were two synoptically driven precipitation features occurring over the western United States. Even through the self-organizing map algorithm has been running for four months, it is still in a training mode, and has not "learned" how to properly classify patterns like this.  That is why then dominant cluster is better matched to the west coast feature, while one of the minor clusters matches better to the precipitation feature over the western Great Plains.</p>
 
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
@@ -42,7 +42,7 @@ An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast C
 </table>
 
 <img src="https://user-images.githubusercontent.com/75145898/111527281-5dab9e00-8725-11eb-9b3b-29697141a94f.png">
-<p>Here is the Phase-Space plot of the 24 hour forecast, valid at 00z on March 15th (6 PM MDT on March 14th). Nineteen ensemble members are clustered around node (1, 46). Two other small clusters are also shown, with 3 members in each one. The averages of the clusters are presented below the corresponding Phase-Space nodes.</p>
+<p>Here is the Phase-Space plot of the 24 hour forecast, valid at 00z on March 15th (6 PM MDT on March 14th). Nineteen ensemble members are clustered around node (1, 46). Two other small clusters are also shown, with 3 members in each one. The averages of the clusters are presented below the corresponding Phase-Space nodes. The clustering at this time period was very similar to what was observed six hours earlier. See the comment above.</p>
 
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
