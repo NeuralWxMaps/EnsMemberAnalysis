@@ -12,7 +12,7 @@
 An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast Colorado Snowstorm
 <hr>
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/75145898/111527263-58e6ea00-8725-11eb-85dc-09ddf5574889.png">
 <p>Here is the Phase-Space plot of the 12 hour forecast, valid at 12z on March 14th (6 AM MDT), showing most of the ensemble members clustered around the pattern at (48,13) and two more members clustered near (4,20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
 
 <table border="1" cellpadding="1" cellspacing="1">
@@ -41,7 +41,7 @@ An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast C
   </tr>
 </table>
 
-<img src="">
+<img src="https://user-images.githubusercontent.com/75145898/111527281-5dab9e00-8725-11eb-9b3b-29697141a94f.png">
 <p>Here is the Phase-Space plot of the 24 hour forecast, valid at 00z on March 15th (6 PM MDT on March 14th), showing most of the ensemble members clustered around the pattern at (48,13) and two more members clustered near (4,20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
 
 <table border="1" cellpadding="1" cellspacing="1">
