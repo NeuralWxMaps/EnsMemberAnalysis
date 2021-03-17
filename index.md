@@ -8,7 +8,23 @@
   <hr>
 
 
+
 An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast Colorado Snowstorm
+<hr>
+
+<img src="">
+<p>Here is the Phase-Space plot of the 12 hour forecast, valid at 12z on March 14th (6 AM MDT), showing most of the ensemble members clustered around the pattern at (48,13) and two more members clustered near (4,20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
+
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111525669-7915a980-8723-11eb-91bb-9c15b4ce2301.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111525710-8337a800-8723-11eb-85f5-6eb0b75fea36.png"></td>
+  </tr>
+  <tr>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+</table>
 <hr>
 
 <img src="https://user-images.githubusercontent.com/75145898/111383045-57f28180-866d-11eb-8ec2-361d1a7f324f.png">
@@ -24,9 +40,26 @@ An Analysis of Ensemble Member Performance during the March 14, 2021 Northeast C
     <td><img src="https://user-images.githubusercontent.com/75145898/111383041-5759eb00-866d-11eb-8a15-2e775570662c.png"></td>
   </tr>
 </table>
+
+<img src="">
+<p>Here is the Phase-Space plot of the 24 hour forecast, valid at 00z on March 15th (6 PM MDT on March 14th), showing most of the ensemble members clustered around the pattern at (48,13) and two more members clustered near (4,20). The largest cluster includes 23 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
+
+<table border="1" cellpadding="1" cellspacing="1">
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111525470-48ce0b00-8723-11eb-95b2-bed15f91de79.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111525542-597e8100-8723-11eb-8025-20c2d3647b0d.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/75145898/111525611-6dc27e00-8723-11eb-95fd-49946ba3d612.png"></td>
+  </tr>
+  <tr>
+    <td><img src=""></td>
+    <td><img src=""></td>
+    <td><img src=""></td>
+  </tr>
+</table>
+<hr>
 <hr>
 <img src="https://user-images.githubusercontent.com/75145898/111383046-57f28180-866d-11eb-807f-a97be43eec85.png">
-<p>Here is the Phase-Space plot of the 12 hour forecast, valid at 00z on March 15th (3/14/21 6 PM MDT Local Time), showing three clusters. One cluster includes 11 members, another cluster contains 10 members and the third cluster contains 7 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
+<p>Here is the Phase-Space plot of the 12 hour forecast, valid at 00z on March 15th (6 PM MDT on March 14th), showing three clusters. One cluster includes 11 members, another cluster contains 10 members and the third cluster contains 7 members. The averages of the clusters are presented below the corresponding Phase-Space Pattern numbers.</p>
 
 <table border="1" cellpadding="1" cellspacing="1">
   <tr>
